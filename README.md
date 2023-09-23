@@ -1,4 +1,5 @@
-# nvim-config
-My customized Neovim config file init.vim.
+# The Best Neovim Config You Will Find Today
+A beautifully customised Neovim config file init.vim.
 
-Any improvements to my init.vim, pls let me know!
+Let me know if you have any suggestions or improvements.
+Cheers.
